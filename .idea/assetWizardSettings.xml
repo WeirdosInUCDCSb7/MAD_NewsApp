@@ -35,7 +35,6 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="paddingPercent" value="-10" />
-                                                <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -46,9 +45,9 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="D:\icons8-facebook-64.png" />
-                                      <entry key="outputName" value="fb_icon" />
-                                      <entry key="theme" value="CUSTOM" />
+                                      <entry key="imageAsset" value="D:\icons8-heart-outline-96.png" />
+                                      <entry key="outputName" value="like_big_icon" />
+                                      <entry key="theme" value="HOLO_DARK" />
                                       <entry key="themeColor" value="1f68e5" />
                                     </map>
                                   </option>
@@ -116,7 +115,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputIconType" value="LAUNCHER_LEGACY" />
+                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>
